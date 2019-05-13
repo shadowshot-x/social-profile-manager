@@ -1,0 +1,20 @@
+.profile-image{
+    height:200px;
+    width:200px;
+    margin-top:10%
+}
+.card-detail{
+    width:350px;
+}
+.edit-btn{
+    margin-top:10%;
+    color:#212529;
+    background-color: #CEFB02;
+    font-weight: 700;
+}
+
+.edit-btn:hover{
+    color:#CEFB02;
+    background-color:#212529 ;
+    font-weight: 700;
+}

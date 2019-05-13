@@ -1,0 +1,40 @@
+.login-btn{
+    color:#212529;
+    background-color: #CEFB02;
+    font-weight: 700;
+}
+.login-btn:hover{
+    color:#CEFB02;
+    background-color:#212529 ;
+    font-weight: 700;
+}
+.signup-image-btn{
+    color:white;
+    background-color:#212529;
+    margin-bottom: 20px;
+    padding-top:15px;
+    padding-left:25px;
+    height: 70px;
+    font-weight: 700;
+}
+.signup-image-btn:hover{
+    color:#212529;
+    background-color:#CEFB02;
+    font-weight: 700;
+    padding-top:15px;
+    padding-left:25px;
+}
+.signup-btn{
+    color:#212529;
+    background-color: #CEFB02;
+    font-weight: 700;
+}
+.signup-btn:hover{
+    color:#CEFB02;
+    background-color:#212529 ;
+    font-weight: 700;
+}
+.loading-para{
+    font-weight: 700;
+    margin-left:35%;
+}
